@@ -80,13 +80,6 @@ goals:
 
 ---
 
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamikakr05-spec&layout=compact&theme=default)
-
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
