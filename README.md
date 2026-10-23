@@ -103,3 +103,10 @@ goals:
   <br/>
   ⭐ Thanks for visiting my profile! ⭐
 </p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/anamika-kumari-058782402">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
