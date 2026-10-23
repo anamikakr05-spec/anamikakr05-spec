@@ -77,6 +77,14 @@ goals:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamikakr05-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </p>
 
+
+---
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamikakr05-spec&layout=compact&theme=default)
+
+
 ---
 
 ## 🐍 Contribution Snake
