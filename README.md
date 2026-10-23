@@ -98,15 +98,19 @@ goals:
 
 ---
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer banner"/>
-  <br/>
+  <a href="https://www.linkedin.com/in/anamika-kumari-058782402/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
   ⭐ Thanks for visiting my profile! ⭐
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/anamika-kumari-058782402">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer banner"/>
 </p>
+
 
